@@ -1,2 +1,4 @@
 # Image-classification-using-CNN-CIFAR10-dataset
 In this project, image classification is performed using a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
+
+The CIFAR-10 dataset consists of a diverse collection of 60,000 labeled images spread across ten different classes, making it a valuable resource for computer vision tasks. The CNN model is trained to recognize and categorize these images into their respective classes, such as animals, vehicles, and everyday objects. By leveraging the power of deep learning and CNN architecture, the model learns to automatically extract features from the images and make accurate predictions, demonstrating the effectiveness of neural networks in image classification tasks. The goal of this project is to achieve high accuracy in classifying these images and to showcase the potential of machine learning in image analysis and recognition.
